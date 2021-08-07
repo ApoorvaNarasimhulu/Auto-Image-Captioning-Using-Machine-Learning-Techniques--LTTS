@@ -1,1 +1,2 @@
 [Code](https://drive.google.com/drive/folders/1gB7cYu3y09odYOJ8bH2fUYSg8K7HfSkf?usp=sharing)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/28d1621b3b5448f5a53897585923b135)](https://www.codacy.com/gh/ApoorvaNarasimhulu/Auto-Image-Captioning-Using-Machine-Learning-Techniques--LTTS/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=ApoorvaNarasimhulu/Auto-Image-Captioning-Using-Machine-Learning-Techniques--LTTS&amp;utm_campaign=Badge_Grade)
